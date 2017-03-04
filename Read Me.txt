@@ -1,0 +1,10 @@
+1. Open main
+2. Open Ind_Analy, This will spit out a CSV sorting companies into pass/fail criteria
+3. Open Ind_Analy_2, This will take the pass companies and analyse the industries they are in. 
+4. Open Ind_Analy_3, This takes each industry, sorts it by criteria, and gives the user options to analyse each specific industry
+
+Balance_sheet_Indexing, Cash_Flow_Indexing, and Income_statement_Indexing are web scrapers called upon by main.
+
+Indexing is for troubleshooting and testing the web scraper connections. 
+
+Code is working as of Nov 28 2016. 
